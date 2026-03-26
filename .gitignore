@@ -1,0 +1,5 @@
+# Ignorar arquivos específicos
+apr.py
+apr2.py
+testes.py
+.env
