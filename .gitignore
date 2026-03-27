@@ -1,5 +1,8 @@
 # Ignorar arquivos específicos
-apr.py
 apr2.py
 testes.py
 .env
+\venv
+\__pycache__
+\.vscode
+desktop.ini
