@@ -224,8 +224,8 @@ class Main():
                                     
                             if self.estado_tela == TELA_EDIT:
                                     try:
-                                        a,b,est = self.input_text.split(',')
-                                        menssagem = f'edit,{id},{a},{b},{est}'
+                                        palavra1,palavra2,estado = self.input_text.split(',')#estado siginifica aprendido ou não. Sim = 1 Não = 0
+                                        menssagem = f'edit,{id},{palavra1},{palavra2},{estado}'
                                         self.cliente_socket.send(menssagem.encode())
                                         popup_simples("Palavra editada")
                                         self.input_text = ''
