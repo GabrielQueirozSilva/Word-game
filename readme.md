@@ -49,9 +49,9 @@ Nesta tela aparecerá a palavra original, assim como um espaço embaixo para voc
 
 Nesta tela também existem mais 3 botões:
 
-*O botão "Reset" redefine os pontos de todas as palavras para que voltem a aparecer aleatoriamente;
-*O botão "Edit" modifica a palavra em questão;
-*O botão "I know" define uma palavra como aprendida, o que faz com que ela não apareça mais nesta tela (caso exista somente 1 palavra, você aperte em "I know" e tente adivinhar a próxima, o programa fechará).
+* O botão "Reset" redefine os pontos de todas as palavras para que voltem a aparecer aleatoriamente;
+* O botão "Edit" modifica a palavra em questão;
+* O botão "I know" define uma palavra como aprendida, o que faz com que ela não apareça mais nesta tela (caso exista somente 1 palavra, você aperte em "I know" e tente adivinhar a próxima, o programa fechará).
 
 Voltando à tela inicial do jogo, o botão "Revise" abrirá a seguinte tela:
 <img width="999" height="784" alt="Captura de tela 2026-03-26 214252" src="https://github.com/user-attachments/assets/1841e409-501b-4bdd-b357-ec523daedce2" />
