@@ -1,9 +1,9 @@
-*Introdução*
+**Introdução**
 Este é um projeto antigo que criei para uma matéria. Ele consiste em um jogo o qual palavras em ingles são mostradas e você tem que adivinhar a tradução delas, mostrando um quadrado verde se você acertou e um quadrado vermelho se não acertou.
 
 Estou postando ele aqui principalmente por causa do arquivo sv.py, onde eu aprendi muito sobre sql. Abra o arquivo para um entendimento melhor.
 
-*Como Jogar*
+**Como Jogar**
 Primeiramente e preciso ter 3 coisas principais:
 
 O python 3.11, versão compativel com o jogo, 
